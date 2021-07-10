@@ -13,7 +13,7 @@ public class CjbserviceImpl extends ServiceImpl<CjbDao, CjbEntity> implements Cj
         CjbEntity cjbEntity=baseMapper.selectById("1");
         CjbEntity cjbEntity1=baseMapper.getById("2");
 
-        String dfgj="sgf";
+        String dfgj="sgfoooo";
 
     }
 }
