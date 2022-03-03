@@ -16,6 +16,9 @@ public class CjbController {
     @Value("${spring.profiles.active}")
     private String filePath;
 
+    /*
+    提交代码
+     */
     @GetMapping("/add")
     public String bb(){
         String vvv=filePath;
