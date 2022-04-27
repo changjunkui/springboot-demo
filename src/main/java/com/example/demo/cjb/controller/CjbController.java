@@ -24,6 +24,7 @@ public class CjbController {
     public String bb(){
         String vvv=filePath;
         cjbService.cjb();
+        String kk = "fdgdfg";
         return "sfrdf";
     }
 }
