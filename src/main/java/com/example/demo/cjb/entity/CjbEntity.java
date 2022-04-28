@@ -15,6 +15,7 @@ public class CjbEntity implements Serializable {
     @TableId
     private String id;
 
+    //sfijrfu
     private String name;
 
     private int sl;
