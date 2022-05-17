@@ -19,8 +19,6 @@ public class CjbEntity implements Serializable {
     //zxin
     private String name;
 
-    private String nl;
-
     private int sl;
 
 
